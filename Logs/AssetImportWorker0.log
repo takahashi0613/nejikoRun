@@ -1,0 +1,185 @@
+Unity Editor version:    2020.3.44f1 (7f159b6136da)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.5.1 (Build 21G83)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/takahashihiroyuki/NejikoRun
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50145
+Successfully changed project path to: /Users/takahashihiroyuki/NejikoRun
+/Users/takahashihiroyuki/NejikoRun
+Using Asset Import Pipeline V2.
+Player connection [8716428800] Host "[IP] 192.168.0.4 [Port] 0 [Flags] 2 [Guid] 1789367880 [EditorId] 1789367880 [Version] 1048832 [Id] OSXEditor(0,takahashihiroyukinoMacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8716428800] Host "[IP] 192.168.0.4 [Port] 0 [Flags] 2 [Guid] 1789367880 [EditorId] 1789367880 [Version] 1048832 [Id] OSXEditor(0,takahashihiroyukinoMacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 36.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.44f1 (7f159b6136da)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/takahashihiroyuki/NejikoRun/Assets
+GfxDevice: creating device client; threaded=0
+2023-02-11 09:58:11.095 Unity[12869:18314797] (null) preferred device: Apple M1 (high power)
+2023-02-11 09:58:11.095 Unity[12869:18314797] Metal devices available: 1
+2023-02-11 09:58:11.095 Unity[12869:18314797] 0: Apple M1 (high power)
+2023-02-11 09:58:11.095 Unity[12869:18314797] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56869
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002109 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 31.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.316 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1316ms)
+		BeginReloadAssembly (134ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1061ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (192ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (537ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (32ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (307ms)
+				ProcessInitializeOnLoadMethodAttributes (106ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.205 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2208ms)
+		BeginReloadAssembly (271ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1841ms)
+			LoadAssemblies (204ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (347ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1007ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (202ms)
+				ProcessInitializeOnLoadAttributes (733ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.004968 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.002075 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.44f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Initializing Unity extensions:
+2023-02-11 09:58:16.270 Unity[12869:18314797] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fa0fd3669d0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2023-02-11 09:58:16.274 Unity[12869:18314797] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fa0fd5a95d0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1495 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.0 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 2.309458 ms (FindLiveObjects: 0.070417 ms CreateObjectMapping: 0.029083 ms MarkObjects: 1.786250 ms  DeleteObjects: 0.423084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/NejikoBaseAssets/Characters/RoboBasic/Materials/RoboBasic.mat
+  artifactKey: Guid(710563e65fc633a4baf58cb42226ba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NejikoBaseAssets/Characters/RoboBasic/Materials/RoboBasic.mat using Guid(710563e65fc633a4baf58cb42226ba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f5e6fed50004de08f72e2b8ee82b32') in 0.467344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
+  artifactKey: Guid(e30ff3588e719f34bbf0c66f22d97487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat using Guid(e30ff3588e719f34bbf0c66f22d97487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70765f4de241419ddff9a08d6609190c') in 0.030633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/NejikoBaseAssets/Characters/Mofumoroid/Materials/Mofumoroid.mat
+  artifactKey: Guid(7ca039a82ad32a648bd6607fe58e278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NejikoBaseAssets/Characters/Mofumoroid/Materials/Mofumoroid.mat using Guid(7ca039a82ad32a648bd6607fe58e278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7782c09436299f0c5f113d0a1fe935') in 0.019885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/NejikoBaseAssets/Characters/Nejiko/Materials/Nejiko.mat
+  artifactKey: Guid(3efc8622f1904dd4ea4b03f8f9a95ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NejikoBaseAssets/Characters/Nejiko/Materials/Nejiko.mat using Guid(3efc8622f1904dd4ea4b03f8f9a95ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4cf4878f9883aec86805a14d8b234c') in 0.012007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/NejikoBaseAssets/Characters/Tofu/Materials/Tofu.mat
+  artifactKey: Guid(df40c4f2e593a87449838a89c7ccb6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NejikoBaseAssets/Characters/Tofu/Materials/Tofu.mat using Guid(df40c4f2e593a87449838a89c7ccb6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1502a91a510058e95f6d68f0884b16') in 0.008128 seconds 

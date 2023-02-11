@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{990E3794-87F8-6A9C-D4D9-DFD72D747BA2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SampleFollow.cs">
+    <Files>
+      <File FileName="Assets/Script/NejikoController.cs" Line="54" Column="29" />
+      <File FileName="Assets/Script/SampleFollow.cs" Line="25" Column="13" />
+      <File FileName="Assets/Script/StageGenerator.cs" Line="60" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NejikoRun" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="SampleFollow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f9c55dca-c58f-4e64-986d-e08632ae15d9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
